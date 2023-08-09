@@ -17,3 +17,13 @@
 - Usar o Selector Playground do Cypress para identificar o nome do elemento;
 
 - Usar as ferramentas de desenvolvedor para melhor identificar os elementos HTML da página.
+
+### Aula 03
+
+- Criar uma nova suíte de testes;
+
+- Utilizar com mais detalhes as ferramentas de desenvolvedor (DevTools) do navegador para explorar e identificar os elementos com que o Cypress irá interagir;
+
+- Utilizar o comando `cy.contains()` para procurar por um texto dentro de um seletor, facilitando a busca por um elemento;
+
+- Criar novos casos de teste, incluindo a função `it()`. Não há limites para a quantidade de testes incluídos.
