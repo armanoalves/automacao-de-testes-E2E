@@ -18,7 +18,7 @@
 
 - Usar as ferramentas de desenvolvedor para melhor identificar os elementos HTML da página.
 
-### Aula 03
+### Aula 02
 
 - Criar uma nova suíte de testes;
 
