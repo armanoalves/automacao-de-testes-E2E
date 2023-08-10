@@ -39,3 +39,11 @@
 - Utilizar o Dashboard para integrar os resultados dos testes e ter uma visão mais analítica e completa dos dados;
 
 - Criar novos comandos personalizados, de acordo com a necessidade e referenciá-los como se fossem comando nativos do Cypress, como por exemplo: `cy.login()`, `cy.registrar()` ou da forma que considerar melhor.
+
+### Aula 04
+
+- O conceito de mocks e stubs e a importância de usá-los;
+
+- Cuidados ao testar dados sensíveis, para não expor o conteúdo a quem não poderia ter acesso;
+
+- Utilizar dados de um arquivo externo nos casos de teste, fornecendo uma massa de dados.
