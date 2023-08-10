@@ -13,8 +13,6 @@ describe('Página de cadastro', () => {
       cy.get('[data-test="registerUserName"]').type(usuario.userName);
       cy.get('[data-test="registerPassword"]').type(usuario.password);
       cy.get('[data-test="btnRegister"]').click();
-    })
-  })
-
-
-})
+    });
+  });
+});

@@ -47,3 +47,11 @@
 - Cuidados ao testar dados sensíveis, para não expor o conteúdo a quem não poderia ter acesso;
 
 - Utilizar dados de um arquivo externo nos casos de teste, fornecendo uma massa de dados.
+
+### Aula 05 
+
+- Realizar requisições para a API para validar dados do usuário;
+
+- A importância de identificar e corrigir flaky tests;
+
+- Implementar o padrão Page Object para aprimorar a manutenção de testes e reduzir a duplicação de código.
